@@ -1,3 +1,8 @@
 #!/usr/bin/python3
-class Square(object):
+
+
+class Square:
+    """
+    empty class for Square
+    """
     pass
